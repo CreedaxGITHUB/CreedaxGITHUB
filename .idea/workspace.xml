@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="953ae15d-61a3-46e0-8021-5fc9af86682c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/education.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/learnerportfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/learnerportfolio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/moviebooks.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/moviebooks.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnerportfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/learnerportfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moviebooks.html" beforeDir="false" afterPath="$PROJECT_DIR$/moviebooks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,47 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/education.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/moviebooks.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="3098" column="25" lean-forward="true" selection-start-line="3098" selection-start-column="25" selection-end-line="3098" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/education.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="3101" column="51" selection-start-line="3101" selection-start-column="51" selection-end-line="3101" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/learnerportfolio.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="3083" column="28" lean-forward="true" selection-start-line="3083" selection-start-column="28" selection-end-line="3083" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="3093" selection-start-line="3093" selection-end-line="3093" />
+            <state relative-caret-position="522">
+              <caret line="98" column="189" selection-start-line="98" selection-start-column="189" selection-end-line="98" selection-end-column="189" />
             </state>
           </provider>
         </entry>
@@ -127,11 +83,11 @@
         <option value="$PROJECT_DIR$/assets/css/learnerportfolio.css" />
         <option value="$PROJECT_DIR$/assets/css/moviebooks.css" />
         <option value="$PROJECT_DIR$/assets/css/education.css" />
-        <option value="$PROJECT_DIR$/education.html" />
         <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/moviebooks.html" />
         <option value="$PROJECT_DIR$/learnerportfolio.html" />
+        <option value="$PROJECT_DIR$/education.html" />
       </list>
     </option>
   </component>
@@ -260,8 +216,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/education.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="522">
+          <caret line="98" column="189" selection-start-line="98" selection-start-column="189" selection-end-line="98" selection-end-column="189" />
         </state>
       </provider>
     </entry>
