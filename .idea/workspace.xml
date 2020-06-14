@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="953ae15d-61a3-46e0-8021-5fc9af86682c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/oldlp2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oldlp3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learnerportfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/learnerportfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oldlp1.html" beforeDir="false" afterPath="$PROJECT_DIR$/oldlp1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snehalp.html" beforeDir="false" afterPath="$PROJECT_DIR$/snehalp.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="254">
+              <caret line="101" column="244" selection-start-line="101" selection-start-column="244" selection-end-line="101" selection-end-column="244" />
             </state>
           </provider>
         </entry>
@@ -29,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="-10">
+              <caret line="45" column="35" lean-forward="true" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -47,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learnerportfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="133" selection-start-line="133" selection-end-line="146" />
+            <state relative-caret-position="386">
+              <caret line="126" column="22" lean-forward="true" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
               <folding>
                 <element signature="e#5005#5011#0" expanded="true" />
               </folding>
@@ -59,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oldlp1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="118" selection-start-line="118" selection-end-line="118" />
+            <state relative-caret-position="251">
+              <caret line="50" column="93" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="93" />
               <folding>
                 <element signature="e#6239#6245#0" expanded="true" />
               </folding>
@@ -71,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oldlp2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="106" selection-start-line="106" selection-end-line="106" />
+            <state relative-caret-position="251">
+              <caret line="52" column="106" selection-start-line="52" selection-start-column="106" selection-end-line="52" selection-end-column="106" />
               <folding>
                 <element signature="e#5065#5071#0" expanded="true" />
               </folding>
@@ -83,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oldlp3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="106" selection-start-line="106" selection-end-line="106" />
+            <state relative-caret-position="251">
+              <caret line="52" column="65" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="65" />
               <folding>
                 <element signature="e#5181#5187#0" expanded="true" />
               </folding>
@@ -95,7 +93,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snehalp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
+            <state relative-caret-position="1125">
               <caret line="75" selection-start-line="75" selection-end-line="75" />
               <folding>
                 <element signature="e#2404#2410#0" expanded="true" />
@@ -128,6 +126,8 @@
       <find>main</find>
       <find>seal</find>
       <find>shel</find>
+      <find>My</find>
+      <find>All My</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -139,17 +139,17 @@
         <option value="$PROJECT_DIR$/assets/css/learnerportfolio.css" />
         <option value="$PROJECT_DIR$/assets/css/moviebooks.css" />
         <option value="$PROJECT_DIR$/assets/css/education.css" />
-        <option value="$PROJECT_DIR$/blog.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/moviebooks.html" />
         <option value="$PROJECT_DIR$/education.html" />
         <option value="$PROJECT_DIR$/LP/tasterslp.html" />
         <option value="$PROJECT_DIR$/generic.html" />
-        <option value="$PROJECT_DIR$/learnerportfolio.html" />
-        <option value="$PROJECT_DIR$/oldlp1.html" />
         <option value="$PROJECT_DIR$/oldlp2.html" />
         <option value="$PROJECT_DIR$/oldlp3.html" />
         <option value="$PROJECT_DIR$/snehalp.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/blog.html" />
+        <option value="$PROJECT_DIR$/learnerportfolio.html" />
+        <option value="$PROJECT_DIR$/oldlp1.html" />
       </list>
     </option>
   </component>
@@ -242,13 +242,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/education.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -284,13 +277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LP/tasterslp.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -315,10 +301,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="101" column="244" selection-start-line="101" selection-start-column="244" selection-end-line="101" selection-end-column="244" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="45" column="35" lean-forward="true" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learnerportfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="133" selection-start-line="133" selection-end-line="146" />
+        <state relative-caret-position="386">
+          <caret line="126" column="22" lean-forward="true" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
           <folding>
             <element signature="e#5005#5011#0" expanded="true" />
           </folding>
@@ -327,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oldlp1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="251">
+          <caret line="50" column="93" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="93" />
           <folding>
             <element signature="e#6239#6245#0" expanded="true" />
           </folding>
@@ -337,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oldlp2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        <state relative-caret-position="251">
+          <caret line="52" column="106" selection-start-line="52" selection-start-column="106" selection-end-line="52" selection-end-column="106" />
           <folding>
             <element signature="e#5065#5071#0" expanded="true" />
           </folding>
@@ -347,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oldlp3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        <state relative-caret-position="251">
+          <caret line="52" column="65" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="65" />
           <folding>
             <element signature="e#5181#5187#0" expanded="true" />
           </folding>
@@ -357,7 +357,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snehalp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
+        <state relative-caret-position="1125">
           <caret line="75" selection-start-line="75" selection-end-line="75" />
           <folding>
             <element signature="e#2404#2410#0" expanded="true" />
