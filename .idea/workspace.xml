@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="953ae15d-61a3-46e0-8021-5fc9af86682c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +24,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="102" column="90" selection-start-line="102" selection-start-column="90" selection-end-line="102" selection-end-column="90" />
+            <state relative-caret-position="333">
+              <caret line="84" column="56" selection-start-line="84" selection-start-column="56" selection-end-line="84" selection-end-column="56" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/albert.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -71,12 +75,12 @@
         <option value="$PROJECT_DIR$/learnerportfolio.html" />
         <option value="$PROJECT_DIR$/oldlp1.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/albert.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/ok.html" />
         <option value="$PROJECT_DIR$/Blog/me.html" />
         <option value="$PROJECT_DIR$/me.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/albert.py" />
         <option value="$PROJECT_DIR$/blog.html" />
       </list>
     </option>
@@ -97,17 +101,6 @@
             <path>
               <item name="creedaxgithub.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="creedaxgithub.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="creedaxgithub.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="creedaxgithub.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="creedaxgithub.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="creedaxgithub.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="creedaxgithub.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -203,7 +196,7 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985955" visible="true" weight="0.17406625" />
-      <window_info id="Structure" order="1" sideWeight="0.5014045" side_tool="true" visible="true" weight="0.17406625" />
+      <window_info id="Structure" order="1" sideWeight="0.5014045" side_tool="true" weight="0.17406625" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -319,13 +312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/albert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/ok.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -429,10 +415,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/albert.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="102" column="90" selection-start-line="102" selection-start-column="90" selection-end-line="102" selection-end-column="90" />
+        <state relative-caret-position="333">
+          <caret line="84" column="56" selection-start-line="84" selection-start-column="56" selection-end-line="84" selection-end-column="56" />
         </state>
       </provider>
     </entry>
